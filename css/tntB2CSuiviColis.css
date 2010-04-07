@@ -1,0 +1,153 @@
+.tntSCBody {
+	background-color: #ffffff;
+	background-position: right bottom;
+	background-repeat: no-repeat;
+	border-color: gray;
+	border-style: solid;
+	border-width: 1px;
+	color: #000000;
+	display: bloc;
+	font-family: arial,helvetica,sans-serif;
+	font-size: 12pt;
+	padding-bottom: 10px;	
+	padding-left: 10px;
+	padding-top: 10px;	
+	width: 590px;
+}
+
+.tntSCBodySearch {
+	background-color: #ffffff;
+	border-color: gray;
+	border-style: solid;
+	border-width: 1px;
+	color: #a0a0a0;
+	font-family: arial,helvetica,sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+	padding-left: 10px;
+	width: 590px;
+}
+
+/* Suppression du gras pour le champ de saisi */
+div.tntSCBodySearch table tbody tr td input{
+	font-weight: normal;
+}
+
+.tntSCError {
+	background-color: #ff6600;
+	color: #ffffff;
+	display: bloc;
+	font-family: arial,helvetica,sans-serif;
+	font-size: 12pt;
+	font-weight: bold;
+	width: 580px;
+}
+
+.tntSCFooter {
+	background-color: #ffffff;
+	border-color: gray;
+	border-style: solid;
+	border-width: 1px;
+	color: #a0a0a0;
+	display: bloc;
+	font-family: arial,helvetica,sans-serif;
+	font-size: 10pt;
+	padding-bottom: 8px;	
+	padding-left: 6px;
+	padding-top: 8px;	
+	width: 594px;
+}
+
+td.tntSCFooterCell1 {
+	background-image: url(../img/logo_24h_chezmoi_RVB.gif);
+	background-position: right center;
+	background-repeat: no-repeat;
+}
+
+td.tntSCFooterCell2 {
+	background-image: url(../img/logo_24h_relaiscolis_RVB.gif);
+	background-position: right center;
+	background-repeat: no-repeat;
+}
+
+.tntSCGray {
+	background-color: #a0a0a0;
+	border-width: 0px;
+	display: bloc;
+	font-family: arial,helvetica,sans-serif;
+	font-size: 10pt;
+	heigth: 12px;
+	width: 580px;
+}
+
+.tntSCHeader {
+	background-color: #ffffff;
+	background-image: url(../img/lg_tnt.gif);
+	background-position: 10px center;
+	background-repeat: no-repeat;
+	border-color: gray;
+	border-style: solid;
+	border-width: 1px;
+	color: #a0a0a0;
+	display: bloc;
+	font-family: arial,helvetica,sans-serif;
+	font-size: 32pt;
+	font-style: italic;
+	height: 75px;
+	padding-right: 10px;
+	padding-top: 25px;
+	text-align: right;
+	width: 590px;
+}
+
+.tntSCInput {
+	background-color: #ffffff;
+	font-family: arial,helvetica,sans-serif;
+	font-size: 12pt;
+	text-align: center;
+}
+
+.tntSCSubHeader {
+	background-color: #ffffff;
+	border-width: 0px;
+	color: #a0a0a0;
+	display: bloc;
+	font-family: arial,helvetica,sans-serif;
+	font-size: 16pt;
+	font-weight: bold;
+	padding-bottom: 3px;
+	padding-top: 3px;	
+	width: 600px;
+}
+
+.tntSCTextBold {
+	color: #a0a0a0;
+	display: inline;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.tntSCTextOrange {
+	color: #ff6600;
+	display: inline;
+}
+
+.tntSCWhite {
+	background-color: #ffffff;
+	border-width: 0px;
+	display: bloc;
+	font-family: arial,helvetica,sans-serif;
+	font-size: 4pt;
+	heigth: 4px;
+	width: 600px;
+}
+
+img.tntSCButton {
+	border: 0px;
+	vertical-align: middle;
+	text-decoration: none;
+}
+
+sup.tntSCSup {
+	font-size: 8pt;
+}
